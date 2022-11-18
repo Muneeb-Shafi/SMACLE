@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Phant/Documents/GitHub/SMACLE/MyProject3 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/MainMenu.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/MAPS/MainMenu.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/MAPS/Level_Selection.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/UI/BP_MainMenu.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/MAPS/Mode_Selection.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/UI/BP_ModeSelection.uasset",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/MAPS/Options.umap",
+				"C:/Users/Phant/Documents/Unreal Projects/MyProject3 5.1/Content/UI/BP_Options.uasset"
+			]
+		}
+	]
+}
